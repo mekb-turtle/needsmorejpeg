@@ -1,0 +1,11 @@
+{
+  "name": "needsmorejpeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "mekb",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "file-type": "^17.0.2"
+  }
+}
